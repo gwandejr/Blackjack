@@ -1,0 +1,6 @@
+C:\CC7\Homework\HW9\Blackjack.Objects\bin\Debug\Blackjack.Objects.dll
+C:\CC7\Homework\HW9\Blackjack.Objects\bin\Debug\Blackjack.Objects.pdb
+C:\CC7\Homework\HW9\Blackjack.Objects\obj\Debug\Blackjack.Objects.csproj.CoreCompileInputs.cache
+C:\CC7\Homework\HW9\Blackjack.Objects\obj\Debug\Blackjack.Objects.dll
+C:\CC7\Homework\HW9\Blackjack.Objects\obj\Debug\Blackjack.Objects.pdb
+C:\CC7\Homework\HW9\Blackjack.Objects\obj\Debug\Blackjack.Objects.csprojAssemblyReference.cache
